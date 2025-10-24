@@ -39,8 +39,6 @@ Mục tiêu của bài lab là giúp sinh viên hiểu và triển khai được
 
 ---
 
-## Hướng dẫn chạy project
-
-1. Clone repository  
+Clone repository  
    ```bash
    git clone https://github.com/Danhnt756/NT106.Q12.2_Lab3.git
