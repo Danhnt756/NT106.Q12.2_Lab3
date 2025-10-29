@@ -1,4 +1,4 @@
-# NT106.Q12.2 – Lab 3: Working with Sockets in C#
+# NT106.Q12.2 – Lab 
 
 | MSSV | Họ và Tên |
 |------|------------|
