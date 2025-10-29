@@ -1,9 +1,7 @@
 # NT106.Q12.2 – Lab 3: Working with Sockets in C#
 
-## Thành viên nhóm
 | MSSV | Họ và Tên |
 |------|------------|
-| 22521251 | Nguyễn Duy Thế Sơn |
 | 24520262 | Nguyễn Tấn Danh |
 
 ---
