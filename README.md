@@ -2,6 +2,7 @@
 
 | MSSV | Họ và Tên |
 |------|------------|
+| 22521251 | Nguyễn Duy Thế Sơn |
 | 24520262 | Nguyễn Tấn Danh |
 
 ---
@@ -13,12 +14,7 @@ Mục tiêu của bài lab là giúp sinh viên hiểu và triển khai được
 
 | Bài | Nội dung chính |
 |-----|----------------|
-| Bài 1 | Gửi và nhận dữ liệu sử dụng UDP Client – UDP Server |
-| Bài 2 | Lắng nghe dữ liệu từ dịch vụ Telnet qua TCP Socket |
-| Bài 3 | Giao tiếp 1 Server – 1 Client sử dụng TCP Listener / TCP Client |
-| Bài 4 | Mô hình 1 Server – Nhiều Client (ứng dụng quản lý phòng vé) |
-| Bài 5 | 1 Server – Multi Client (ứng dụng “Hôm nay ăn gì?” tích hợp SQLite) |
-| Bài 6 | Ứng dụng Chat Room đa người dùng qua TCP (gửi tin nhắn và file) |
+
 
 ---
 
